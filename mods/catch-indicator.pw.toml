@@ -1,0 +1,13 @@
+name = "Catch Indicator [Cobblemon Addon]"
+filename = "catchindicator-neoforge-3.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2ba40b94ff9765ca62377e2de50d984aaa93b68f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9367537
+project-id = 1431831

@@ -1,0 +1,13 @@
+name = "Cobblemon Emissive Textures"
+filename = "Cobblemon Emmisive Textures.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/5kq2wIi8/versions/33I1cNS3/Cobblemon%20Emmisive%20Textures.zip"
+hash-format = "sha512"
+hash = "ce9fc5c7d52481ac07679a01da8d7a1853c88204c710dd259ac0a769a5a6b3cd15945323ec49e95624be2a5e0aceffe29e24a58c66a8bf8cf986d20a27633d15"
+
+[update]
+[update.modrinth]
+mod-id = "5kq2wIi8"
+version = "33I1cNS3"

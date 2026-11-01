@@ -1,0 +1,13 @@
+name = "MoreMcmeta Emissive Textures"
+filename = "emissive-plugin-1.21.1-2.0.7-forge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/oQ0dIGZg/versions/SiXaQl23/emissive-plugin-1.21.1-2.0.7-forge.jar"
+hash-format = "sha512"
+hash = "ed05cd69b960de5237a01079f55c37e5ca3187aea80f52b75b2238886149fbeb068caffc1fd5a8fd01edf2176a59764ed2a2d9365949a1938b35d1c25d4de5d3"
+
+[update]
+[update.modrinth]
+mod-id = "oQ0dIGZg"
+version = "SiXaQl23"
