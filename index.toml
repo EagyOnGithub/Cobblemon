@@ -81,11 +81,6 @@ hash = "b470b011552f83ec228b825a7fcd165d4de4cefab44beaf2a73b01ce7d621e0e"
 metafile = true
 
 [[files]]
-file = "mods/continuity.pw.toml"
-hash = "2e082857985c7550efdad38a1997b9805051b07fb61b0cd30921e786a8521130"
-metafile = true
-
-[[files]]
 file = "mods/create.pw.toml"
 hash = "4b0ca63279620ec9ba4c63820a9d4f9ceea9b717227137ea19e5c420c820f858"
 metafile = true
@@ -148,16 +143,6 @@ metafile = true
 [[files]]
 file = "mods/morecobblemontweaks.pw.toml"
 hash = "d3ab85e1645da773a798770e1528b1f6afc9805fae1413a0eaced930956e90d8"
-metafile = true
-
-[[files]]
-file = "mods/moremcmeta-emissive.pw.toml"
-hash = "8453973a838556f856a913b3615cb34da8cc23ce6d1be892f78beea61d46d17f"
-metafile = true
-
-[[files]]
-file = "mods/moremcmeta.pw.toml"
-hash = "c7867176688847833991ad68221685d4c81ebfa48b89d5fcd35ad04fa362b30f"
 metafile = true
 
 [[files]]
