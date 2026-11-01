@@ -41,11 +41,6 @@ hash = "a4c595c147f06581211b021f46fa1eb6c6388ddca2647c824036eacc8fd6367a"
 metafile = true
 
 [[files]]
-file = "mods/better-brightness-slider-respawn.pw.toml"
-hash = "9de87412f5bf765f54885b6b2b9f80fc79a8ede32dd57666e54ed56f71e2721d"
-metafile = true
-
-[[files]]
 file = "mods/better-stats.pw.toml"
 hash = "febb2ffedfb75474364590c1231a9330d9161f875b92b03e4ff1ddb2c759d992"
 metafile = true
@@ -323,11 +318,6 @@ metafile = true
 [[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "7ece7b8e65ac74bc1c705a3e25948ce5772c26ddf148514f29d90920ca1c3866"
-metafile = true
-
-[[files]]
-file = "mods/sodium-options-api.pw.toml"
-hash = "d193173f0f5dfb4a921d44e29e8d5cee656dd3a40872939069715bb482b66fc9"
 metafile = true
 
 [[files]]
