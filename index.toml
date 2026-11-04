@@ -81,6 +81,11 @@ hash = "0ecd39fefd2292d611ef0535f258f868887088a000f5bdf7108d824bf49c2748"
 metafile = true
 
 [[files]]
+file = "mods/cobblemon-capture-xp.pw.toml"
+hash = "82466e3b5352b986931acaafbe2625dbe1dff2afca8010ca4f657621eb2cf1aa"
+metafile = true
+
+[[files]]
 file = "mods/cobblemon-integrations.pw.toml"
 hash = "44221c649b5ecb2a28766639ad76b484b19b2704a1a252bbc8348c65bdf772ab"
 metafile = true
@@ -96,8 +101,13 @@ hash = "cc7cf1c789649aff348a344b2017661649eec66fdbcf632c3a2cc48bc7f95aa0"
 metafile = true
 
 [[files]]
+file = "mods/cobblemon-spawn-notification.pw.toml"
+hash = "4f52f7506c8a85633c9a45a853a39f409c85f5f926f953c2f25bef86f01822d0"
+metafile = true
+
+[[files]]
 file = "mods/cobblemon-tim-core.pw.toml"
-hash = "7942e4f737f45c59fab8d049f00fb48c5f17cfdc62b408816bfaed95796e2ee0"
+hash = "4b028bfd8195022577c89b7336ce708957c23d4e04c50b75f73a629e7ea1a683"
 metafile = true
 
 [[files]]
