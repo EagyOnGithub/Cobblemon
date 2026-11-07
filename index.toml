@@ -116,6 +116,11 @@ hash = "63338ce7e20f31e1aef44bf82ea0377dc66ae2dfc5724ad4617e5212e09235e0"
 metafile = true
 
 [[files]]
+file = "mods/cobbleworkers.pw.toml"
+hash = "c6e026adbf84f6d50bfeddddd8e0df1bd7619e3939dc02d06b669c22d4c434e5"
+metafile = true
+
+[[files]]
 file = "mods/cobbreeding.pw.toml"
 hash = "aa8f86c0deec2e5ff6a20360be15748c5281faaa0acf45f15044eff42f182ad9"
 metafile = true
