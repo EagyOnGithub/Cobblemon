@@ -41,11 +41,6 @@ hash = "a4c595c147f06581211b021f46fa1eb6c6388ddca2647c824036eacc8fd6367a"
 metafile = true
 
 [[files]]
-file = "mods/better-stats.pw.toml"
-hash = "febb2ffedfb75474364590c1231a9330d9161f875b92b03e4ff1ddb2c759d992"
-metafile = true
-
-[[files]]
 file = "mods/betterf3.pw.toml"
 hash = "c9aca350959a8936b054c7164fb55d789ab1e0d38cff2af48b78f70af2bc0c6d"
 metafile = true
@@ -357,12 +352,17 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "8a6203521324d8359947340a6b39466e266d95998ebca7db3781d4439ad4fafe"
+hash = "09ffd118babd4e9114f0c4bf9b0a1478f84a2470ebffec0104715c8bd66c9180"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "de0d3c65a2a8c796dce223b73e76677d3976de19491ba0cb8d801fc6b45f002d"
+hash = "899a6b03dc738f5638a4ad88015c6737bfa9abbe3d30d89e84cbdd5aa8ab40eb"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-storage.pw.toml"
+hash = "571bfc56ab43f32cb09fab3f9a04c0363dc82a5f9b9ca2785b15708e453e3be0"
 metafile = true
 
 [[files]]
@@ -373,11 +373,6 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "593fa7b30ab016aa45be07bd6bef3a9f160ed0f24689850d60bf84995d69b843"
-metafile = true
-
-[[files]]
-file = "mods/tcdcommons.pw.toml"
-hash = "a78e26cce4d58e73de9d60e96af1090cc2292cfbd26bde769299b8d6e9c8ee09"
 metafile = true
 
 [[files]]
