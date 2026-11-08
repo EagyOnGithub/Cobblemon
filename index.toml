@@ -111,9 +111,8 @@ hash = "63338ce7e20f31e1aef44bf82ea0377dc66ae2dfc5724ad4617e5212e09235e0"
 metafile = true
 
 [[files]]
-file = "mods/cobbleworkers.pw.toml"
-hash = "c6e026adbf84f6d50bfeddddd8e0df1bd7619e3939dc02d06b669c22d4c434e5"
-metafile = true
+file = "mods/cobbleworkers-neoforge-2.0.7+1.8.3 (1).jar"
+hash = "de4486f0c1a1764beb582ff2c706b3c4d3b1f49deb7e562adacfe1e7f1fb33fa"
 
 [[files]]
 file = "mods/cobbreeding.pw.toml"
