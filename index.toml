@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/Ixeris-4.6.11+1.21.1-forge.jar"
+hash = "749ce6e8482f1fef0dd8695093097a07180972949df1edf1f03f2dff036888a6"
+
+[[files]]
 file = "mods/accessories.pw.toml"
 hash = "2017362c793d95887d38b3353abb7c77f212175e82ed848296575ea0e466b7d7"
 metafile = true
