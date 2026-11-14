@@ -370,12 +370,12 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "4263d5bcf02a39213e93949287119aeb17e59d3432bb4b4597d963fd4f8dcc12"
+hash = "5595180841498e564236e26c66a5d7d790a2fcd52da68707f0c8ac15fd03e3a2"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-storage.pw.toml"
-hash = "0514cfaad40b0c8d310446f534ef4b296f1eeabf84a622a421b5892c3690a0d3"
+hash = "daf137e8a49ade4dd31c65befa0fe1136cd834e43714a989db482c133f7d45d4"
 metafile = true
 
 [[files]]
